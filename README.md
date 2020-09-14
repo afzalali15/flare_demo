@@ -1,6 +1,9 @@
-# flare_demo
+# Flare animation with Flutter || RIVE app animation
 
-A new Flutter project.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4RHvFVVUWqw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+If you like my work, support me to create more!<br>
+<a href="https://www.buymeacoffee.com/afzalali15" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
 
 ## Getting Started
 
