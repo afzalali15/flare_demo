@@ -1,9 +1,10 @@
 # Flare animation with Flutter || RIVE app animation
 
+Click on the image below for YouTube tutorial.
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=4RHvFVVUWqw"><img src="https://img.youtube.com/vi/4RHvFVVUWqw/0.jpg" alt="Flare animation with flutter"></a>
+  <a href="https://www.youtube.com/watch?v=4RHvFVVUWqw"><img src="https://img.youtube.com/vi/4RHvFVVUWqw/maxresdefault.jpg" alt="Flare animation with flutter"></a>
 </div>
-
+<br>
 If you like my work, support me to create more!<br>
 <a href="https://www.buymeacoffee.com/afzalali15" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
 
