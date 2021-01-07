@@ -5,8 +5,15 @@ Click on the image below for YouTube tutorial.
   <a href="https://www.youtube.com/watch?v=4RHvFVVUWqw"><img src="https://img.youtube.com/vi/4RHvFVVUWqw/maxresdefault.jpg" alt="Flare animation with flutter"></a>
 </div>
 <br>
-If you like my work, support me to create more!<br>
-<a href="https://www.buymeacoffee.com/afzalali15" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
+
+
+![YouTube Video Views](https://img.shields.io/youtube/views/4RHvFVVUWqw?style=social) ![YouTube Video Votes](https://img.shields.io/youtube/likes/4RHvFVVUWqw?label=Likes&style=social) <br>
+<img align="left" alt="CodeX | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" color />**Tutorial** 👇🏼👇🏼👇🏼<br>
+Flare animation with Flutter || RIVE app animation<br>
+https://youtu.be/4RHvFVVUWqw
+
+ If you like my work, support me to create more! 😎👍<br>
+<a href="https://www.buymeacoffee.com/afzalali15" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50px" alt="Buy Me A Coffee"></a>
 
 ## Getting Started
 
